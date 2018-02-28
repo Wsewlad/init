@@ -1,0 +1,7 @@
+The script that I used:
+
+./10 | grep ' 2 ' | awk '{print $2}'
+
+Answer:
+
+178.214.196.33
